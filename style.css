@@ -1,0 +1,26 @@
+body{
+    
+    
+    font-size: 24px;
+    text-align: center;
+    border-width: 1px;
+    color: blue;
+    font-weight: bold;
+    border-style: solid;
+    border-color: black;
+    background-image: url(https://estaticos-cdn.prensaiberica.es/clip/cc394596-a876-484c-823f-0c092b05b1f7_alta-libre-aspect-ratio_default_0.jpg);
+    background-size: cover;
+    
+}
+
+ul{
+    background-color: lightgray;
+}
+img{
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+nav{
+    background-color: red;
+}
